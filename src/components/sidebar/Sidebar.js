@@ -8,7 +8,7 @@ const ColouredDiv = styled.div`
   color: ${WHITE};
   background-color: ${BLACK};
   height: 100%;
-  width: 10%;
+  width: 7em;
 `
 
 class Sidebar extends React.Component {
